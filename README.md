@@ -21,3 +21,7 @@ to test I2C devices
 ```
 i2cdetect -y 1 
 ```
+
+https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
+https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
+https://github.com/tatobari/hx711py
